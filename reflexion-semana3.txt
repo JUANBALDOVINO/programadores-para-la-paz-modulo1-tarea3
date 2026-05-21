@@ -1,0 +1,13 @@
+Llevar un registro de cambios con Git es esencial en el desarrollo 
+de software porque funciona como una máquina del tiempo para el 
+código. Permite registrar con precisión qué se modificó, cuándo y 
+quién lo hizo, facilitando volver a una versión estable si un error 
+inesperado rompe la aplicación en producción. Esta trazabilidad es 
+clave para el trabajo en equipo, ya que las ramas (branches) 
+permiten que varios desarrolladores trabajen en distintas funciones 
+en paralelo sin pisarse los cambios entre sí. 
+Además, actúa como un respaldo de seguridad continuo y 
+proporciona una documentación transparente de la evolución del 
+proyecto. En definitiva, el uso de Git minimiza los riesgos de 
+pérdida de datos y transforma el caos del desarrollo en un proceso 
+coordinado, seguro y profesional
